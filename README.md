@@ -1,2 +1,0 @@
-# BookmarksApp
-Created with CodeSandbox
